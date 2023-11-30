@@ -1,0 +1,8 @@
+side_1 = int(input("Enter the side_1 of the rhombus "))
+side_2 = int(input("Enter the side_2 of the rhombus "))
+Height = int(input("Enter the height of the rhombus "))
+Area = (side_1+side_2) * Height *(1/2)
+print("The Area of the rhombus is ", Area)
+
+
+
