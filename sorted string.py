@@ -1,0 +1,5 @@
+n = input("Enter the string to be sorted : ")
+ss = sorted(n)
+print(ss)
+n2 = ''.join(ss)
+print(n2)
